@@ -1,8 +1,3 @@
 # MATH4753
-<<<<<<< HEAD
-=======
-# MATH4753
-# MATH4753
-# MATH4753
-# MATH4753
->>>>>>> 9968f7e0f264e7e51cb7d5df29dfff066a66e311
+
+## This is for stats MATH4753 package making!!
